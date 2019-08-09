@@ -1,0 +1,6 @@
+cn\yxvk\itoken\service\posts\mapper\TbPostsPostExtendMapper.class
+cn\yxvk\itoken\service\posts\controller\PostsController.class
+cn\yxvk\itoken\service\posts\service\impl\PostsServiceImpl.class
+cn\yxvk\itoken\service\posts\ServicePostsApplication.class
+cn\yxvk\itoken\service\posts\service\PostsService.class
+cn\yxvk\itoken\service\posts\config\Swagger2Config.class

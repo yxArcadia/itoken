@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://192.168.55.132:8888
+      name: itoken-service-upload,itoken-client-eureka,itoken-client-admin,itoken-client-zipkin,itoken-client-redis
+      label: master
+      profile: prod

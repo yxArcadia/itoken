@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>文件上传</title>
+<link rel="stylesheet" href="css/layui.css">
+<script type="text/javascript" src="jquery.js"></script>
+</head>
+<body>
+	<form method="post" enctype="multipart/form-data" 
+	action="upload" id="form-upload">
+		<p>请选择你要上传的文件
+		<!-- multiple="multiple" 设置可以上传多个文件 -->
+		<input  type="file" name="dropFile" multiple="multiple">
+		</p>
+		<p>
+		<input class="layui-btn" type="button" value="上传">
+		</p>
+	</form>
+</body>
+<script type="text/javascript">
+	$(".layui-btn").click(function(){
+		var url="upload";
+		var data=new FormData($("#form-upload")[0])
+		$.ajax({
+			url:url,
+			data:data,
+			type:"post",
+			contentType:false,
+			processData:false,
+			dataType:"json",
+			success:function(resp){
+			    console.log(resp)
+				alert("上传成功");
+			},
+			error:function(){
+				alert("错误");
+			}
+		})	
+	})
+
+</script>
+</html>

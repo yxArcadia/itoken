@@ -1,0 +1,8 @@
+C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\controller\PostsController.java
+C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\service\fallback\PostsServiceFallback.java
+C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\WebPostsApplication.java
+C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\service\RedisService.java
+C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\interceptor\LoginInterceptor.java
+C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\config\WebInterceptorConfiguration.java
+C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\service\PostsService.java
+C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\service\fallback\RedisServiceFallback.java

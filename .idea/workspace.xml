@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/itoken-service-admin/src/test/java/cn/yxvk/itoken/service/admin/test/service/AdminServiceTest.java" line="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba3b794b-852a-42f3-9247-59b0a3faae42" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/components/datatables/DataTablesResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/constants/WebConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/interceptor/BaseInterceptorMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/interceptor/ConstantsInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/service/BaseClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/utils/HttpServletUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/datetime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/nth-tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/copyright.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/foot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-common-domain/itoken-common-domain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-common-domain/itoken-common-domain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-common-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-common-domain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-common-service/itoken-common-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-common-service/itoken-common-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-common-web/itoken-common-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-common-web/itoken-common-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-common-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-common-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-zipkin-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-zipkin-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-admin/itoken-service-admin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-admin/itoken-service-admin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/controller/RedisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/controller/RedisController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/service/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/service/RedisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/service/impl/RedisServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/service/impl/RedisServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/itoken-service-sso.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/itoken-service-sso.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/ServiceSSOApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/ServiceSSOApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/mapper/TbSysUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/mapper/TbSysUserExtendMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/service/consumer/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/service/consumer/RedisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/service/consumer/fallback/RedisServiceFallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/service/consumer/fallback/RedisServiceFallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/resources/bootstrap-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/resources/bootstrap-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/resources/mapper/TbSysUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/resources/mapper/TbSysUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-service-sso/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-service-sso/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-web-admin/itoken-web-admin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-web-admin/itoken-web-admin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-web-admin/src/main/java/cn/yxvk/itoken/web/admin/interceptor/WebAdminInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-web-admin/src/main/java/cn/yxvk/itoken/web/admin/interceptor/WebAdminInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-web-admin/src/main/resources/bootstrap-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-web-admin/src/main/resources/bootstrap-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-web-admin/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-web-admin/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-web-admin/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-web-admin/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-zuul/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-zuul/target/classes/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-zuul/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-zuul/target/classes/application.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/itoken-config/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-dependencies/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-zipkin/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-admin/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-web-admin/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-service-admin/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-common-service/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-common/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-commen-web/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-common-web/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-service-redis/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-service-sso/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-common-domain/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-service-posts/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-web-posts/target/" />
+    <ignored path="$PROJECT_DIR$/itoken-service-upload/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/controller/UploadController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1419">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/StorageService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/FastDFSStorageService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-280">
+              <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-zipkin-prod.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-zipkin-dev.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-redis-prod.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-eureka-prod.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-admin-prod.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-zipkin-prod.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itoken-eureka/.gitlab-ci.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+      <find>hello-spring-cloud</find>
+      <find>hello.spring.cloud</find>
+      <find>feign</find>
+      <find>tk</find>
+      <find>page</find>
+      <find>mysql</find>
+      <find>test</find>
+      <find>conf</find>
+      <find>cong</find>
+      <find>html</find>
+      <find>fe</find>
+      <find>eureka</find>
+      <find>139</find>
+      <find>192.168.55.132</find>
+      <find>dom</find>
+      <find>do</find>
+      <find>red</find>
+      <find>redis</find>
+      <find>&quot;token&quot;</find>
+      <find>&quot;tbSysUser&quot;</find>
+      <find>WebC</find>
+      <find>lom</find>
+      <find>admin</find>
+      <find>header</find>
+      <find>menu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>admin</replace>
+      <replace>eureka</replace>
+      <replace>itoken</replace>
+      <replace>localhost</replace>
+      <replace>WebConstants.SESSION_USER</replace>
+      <replace>WebConstants.SESSION_TOKEN</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/itoken-config-respo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/itoken-config-respo/respo/itoken-web-posts-prod.yml" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/config/WebPostsInterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/interceptor/WebPostsInterceptor.java" />
+        <option value="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/service/RedisService.java" />
+        <option value="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/service/impl/RedisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itoken-service-redis/src/main/java/cn/yxvk/itoken/service/redis/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/service/consumer/RedisService.java" />
+        <option value="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/service/consumer/fallback/RedisServiceFallback.java" />
+        <option value="$PROJECT_DIR$/itoken-service-sso/src/main/java/cn/yxvk/itoken/service/sso/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/components/datatables/DataTablesResult.java" />
+        <option value="$PROJECT_DIR$/itoken-common-web/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/service/BaseClientService.java" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/itoken-service-sso/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/app.js" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/datetime.js" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/nth-tabs.js" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/copyright.html" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/header.html" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/menu.html" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/foot.html" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/head.html" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/resources/templates/form.html" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/resources/templates/includes/menu.html" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/ServiceUploadApplication.java" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/bootstrap-prod.yml" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/StroageService.java" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/FastDFSStorageService.java" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/StorageFactory.java" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/FastDFSConfiguration.java" />
+        <option value="$PROJECT_DIR$/itoken-config-respo/respo/itoken-service-upload-dev.yml" />
+        <option value="$PROJECT_DIR$/itoken-config-respo/respo/itoken-service-upload-prod.yml" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/controller/UploadController.java" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/interceptor/BaseInterceptorMethods.java" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/service/fallback/PostsServiceFallback.java" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/controller/PostsController.java" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/config/WebInterceptorConfiguration.java" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/WebPostsApplication.java" />
+        <option value="$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/validate.js" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/service/fallback/RedisServiceFallback.java" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/service/RedisService.java" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/resources/templates/main.html" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/service/PostsService.java" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/static/index.html" />
+        <option value="$PROJECT_DIR$/itoken-config/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/itoken-eureka/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-zipkin-prod.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="C:/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="365" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>AccessibilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Application Servers</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LoggingJava</id>
+          </State>
+          <State>
+            <id>MemoryJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itoken" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itoken" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itoken" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itoken" type="462c0819:PsiDirectoryNode" />
+              <item name="itoken-config-respo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itoken" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itoken" type="462c0819:PsiDirectoryNode" />
+              <item name="itoken-config-respo" type="462c0819:PsiDirectoryNode" />
+              <item name="respo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itoken" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itoken" type="462c0819:PsiDirectoryNode" />
+              <item name="itoken-service-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565192880816" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/itoken-service-upload/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yangxiang\IdeaProjects\itoken\itoken-service-upload\src\main\resoureces\static" />
+      <recent name="C:\Users\yangxiang\IdeaProjects\itoken\itoken-common-web\src\main\java\cn\yxvk\itoken\common\web" />
+      <recent name="C:\Users\yangxiang\IdeaProjects\itoken\itoken-web-posts\src\main\java\cn\yxvk\itoken\web\posts\controller" />
+      <recent name="C:\Users\yangxiang\IdeaProjects\itoken\itoken-config-respo\respo" />
+      <recent name="C:\Users\yangxiang\IdeaProjects\itoken\itoken-service-upload\src\main\resoureces" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.yxvk.itoken.web.posts.interceptor" />
+      <recent name="cn.yxvk.itoken.service.posts.mapper" />
+      <recent name="cn.yxvk.itoken.common.domain" />
+      <recent name="cn.yxvk.itoken.web.admin.service.fallback" />
+      <recent name="cn.yxvk.itoken.web.admin.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yangxiang\IdeaProjects\itoken\itoken-config-respo" />
+      <recent name="C:\Users\yangxiang\IdeaProjects\itoken\itoken-service-admin\src" />
+      <recent name="C:\Users\yangxiang\IdeaProjects\itoken\itoken-service-admin\src\main\resources\generator" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.20355192" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceUploadApplication">
+    <configuration name="AdminServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itoken-service-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yxvk.itoken.service.admin.test.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.yxvk.itoken.service.admin.test.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.yxvk.itoken.service.admin.test.service.AdminServiceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminServiceTest.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itoken-service-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yxvk.itoken.service.admin.test.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.yxvk.itoken.service.admin.test.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.yxvk.itoken.service.admin.test.service.AdminServiceTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminServiceTest.register" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itoken-service-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yxvk.itoken.service.admin.test.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.yxvk.itoken.service.admin.test.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.yxvk.itoken.service.admin.test.service.AdminServiceTest" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.eureka.EurekaApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-service-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.service.redis.RedisApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-service-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.service.admin.ServiceAdminApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicePostsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="itoken-service-posts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yxvk.itoken.service.posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.service.posts.ServicePostsApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSSOApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-service-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.service.sso.ServiceSSOApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-service-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.service.upload.ServiceUploadApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-web-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.web.admin.WebAdminApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebPostsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="itoken-web-posts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yxvk.itoken.web.posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.web.posts.WebPostsApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipKinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="itoken-zipkin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.zipkin.ZipKinApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itoken-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yxvk.itoken.zuul.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ZipKinApplication" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.ZuulApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.ServiceAdminApplication" />
+      <item itemvalue="Spring Boot.WebAdminApplication" />
+      <item itemvalue="Spring Boot.RedisApplication" />
+      <item itemvalue="Spring Boot.ServiceSSOApplication" />
+      <item itemvalue="Spring Boot.ServiceUploadApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="JUnit.AdminServiceTest.register" />
+      <item itemvalue="JUnit.AdminServiceTest" />
+      <item itemvalue="JUnit.AdminServiceTest.login" />
+      <item itemvalue="Spring Boot.ServicePostsApplication" />
+      <item itemvalue="Spring Boot.WebPostsApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WebPostsApplication" />
+        <item itemvalue="Spring Boot.ServicePostsApplication" />
+        <item itemvalue="JUnit.AdminServiceTest.login" />
+        <item itemvalue="JUnit.AdminServiceTest.register" />
+        <item itemvalue="JUnit.AdminServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba3b794b-852a-42f3-9247-59b0a3faae42" name="Default Changelist" comment="" />
+      <created>1564543280847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564543280847</updated>
+      <workItem from="1564543283902" duration="3223000" />
+      <workItem from="1564551388218" duration="2129000" />
+      <workItem from="1564553649312" duration="4122000" />
+      <workItem from="1564559752154" duration="7096000" />
+      <workItem from="1564626096575" duration="6683000" />
+      <workItem from="1564645769013" duration="666000" />
+      <workItem from="1564646477782" duration="16094000" />
+      <workItem from="1564669769707" duration="1975000" />
+      <workItem from="1564671819261" duration="253000" />
+      <workItem from="1564672106328" duration="2300000" />
+      <workItem from="1564674593818" duration="2100000" />
+      <workItem from="1564709368211" duration="8389000" />
+      <workItem from="1564742628885" duration="7161000" />
+      <workItem from="1564801275569" duration="5484000" />
+      <workItem from="1564818125645" duration="3176000" />
+      <workItem from="1564824796174" duration="3430000" />
+      <workItem from="1564837096828" duration="677000" />
+      <workItem from="1564838300719" duration="9741000" />
+      <workItem from="1564886868793" duration="17843000" />
+      <workItem from="1564911478832" duration="8064000" />
+      <workItem from="1564925673809" duration="8180000" />
+      <workItem from="1564970440575" duration="8897000" />
+      <workItem from="1564985955584" duration="10984000" />
+      <workItem from="1565000497436" duration="17042000" />
+      <workItem from="1565061028273" duration="5478000" />
+      <workItem from="1565077682083" duration="3592000" />
+      <workItem from="1565085574386" duration="3529000" />
+      <workItem from="1565094476707" duration="2581000" />
+      <workItem from="1565192608457" duration="675000" />
+      <workItem from="1565312993586" duration="1705000" />
+    </task>
+    <task id="LOCAL-00075" summary="init">
+      <created>1564898387683</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1564898387683</updated>
+    </task>
+    <task id="LOCAL-00076" summary="init">
+      <created>1564898442563</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1564898442563</updated>
+    </task>
+    <task id="LOCAL-00077" summary="init">
+      <created>1564899018425</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1564899018425</updated>
+    </task>
+    <task id="LOCAL-00078" summary="init">
+      <created>1564899783250</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1564899783250</updated>
+    </task>
+    <task id="LOCAL-00079" summary="init">
+      <created>1564900094496</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1564900094496</updated>
+    </task>
+    <task id="LOCAL-00080" summary="init">
+      <created>1564900953176</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1564900953176</updated>
+    </task>
+    <task id="LOCAL-00081" summary="init">
+      <created>1564901256559</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1564901256559</updated>
+    </task>
+    <task id="LOCAL-00082" summary="init">
+      <created>1564901377476</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1564901377476</updated>
+    </task>
+    <task id="LOCAL-00083" summary="init">
+      <created>1564901527827</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1564901527827</updated>
+    </task>
+    <task id="LOCAL-00084" summary="init">
+      <created>1564901682699</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1564901682699</updated>
+    </task>
+    <task id="LOCAL-00085" summary="init">
+      <created>1564901714944</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1564901714944</updated>
+    </task>
+    <task id="LOCAL-00086" summary="init">
+      <created>1564901793566</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1564901793566</updated>
+    </task>
+    <task id="LOCAL-00087" summary="init">
+      <created>1564901980451</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1564901980451</updated>
+    </task>
+    <task id="LOCAL-00088" summary="init">
+      <created>1564902032997</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1564902032997</updated>
+    </task>
+    <task id="LOCAL-00089" summary="init">
+      <created>1564902271841</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1564902271842</updated>
+    </task>
+    <task id="LOCAL-00090" summary="init">
+      <created>1564902469183</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1564902469183</updated>
+    </task>
+    <task id="LOCAL-00091" summary="init">
+      <created>1564902608132</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1564902608132</updated>
+    </task>
+    <task id="LOCAL-00092" summary="init">
+      <created>1564902666530</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1564902666530</updated>
+    </task>
+    <task id="LOCAL-00093" summary="init">
+      <created>1564903102642</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1564903102643</updated>
+    </task>
+    <task id="LOCAL-00094" summary="init">
+      <created>1564903140214</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1564903140214</updated>
+    </task>
+    <task id="LOCAL-00095" summary="init">
+      <created>1564903283525</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1564903283525</updated>
+    </task>
+    <task id="LOCAL-00096" summary="init">
+      <created>1564903348654</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1564903348654</updated>
+    </task>
+    <task id="LOCAL-00097" summary="init">
+      <created>1564904464843</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1564904464843</updated>
+    </task>
+    <task id="LOCAL-00098" summary="init">
+      <created>1564904633644</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1564904633644</updated>
+    </task>
+    <task id="LOCAL-00099" summary="init">
+      <created>1564905128475</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1564905128475</updated>
+    </task>
+    <task id="LOCAL-00100" summary="init">
+      <created>1564905190334</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1564905190334</updated>
+    </task>
+    <task id="LOCAL-00101" summary="init">
+      <created>1564905241485</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1564905241485</updated>
+    </task>
+    <task id="LOCAL-00102" summary="init">
+      <created>1564905677037</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1564905677037</updated>
+    </task>
+    <task id="LOCAL-00103" summary="init">
+      <created>1564905718184</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1564905718184</updated>
+    </task>
+    <task id="LOCAL-00104" summary="init">
+      <created>1564905767462</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1564905767462</updated>
+    </task>
+    <task id="LOCAL-00105" summary="init">
+      <created>1564906418320</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1564906418320</updated>
+    </task>
+    <task id="LOCAL-00106" summary="init">
+      <created>1564906639492</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1564906639492</updated>
+    </task>
+    <task id="LOCAL-00107" summary="init">
+      <created>1564906675694</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1564906675694</updated>
+    </task>
+    <task id="LOCAL-00108" summary="init">
+      <created>1564927471309</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1564927471309</updated>
+    </task>
+    <task id="LOCAL-00109" summary="init">
+      <created>1564974372088</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1564974372089</updated>
+    </task>
+    <task id="LOCAL-00110" summary="init">
+      <created>1564980580638</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1564980580638</updated>
+    </task>
+    <task id="LOCAL-00111" summary="init">
+      <created>1564980612098</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1564980612098</updated>
+    </task>
+    <task id="LOCAL-00112" summary="init">
+      <created>1564986019391</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1564986019393</updated>
+    </task>
+    <task id="LOCAL-00113" summary="init">
+      <created>1564986538338</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1564986538338</updated>
+    </task>
+    <task id="LOCAL-00114" summary="init">
+      <created>1564986689648</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1564986689648</updated>
+    </task>
+    <task id="LOCAL-00115" summary="init">
+      <created>1564990349129</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1564990349129</updated>
+    </task>
+    <task id="LOCAL-00116" summary="init">
+      <created>1565003397112</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1565003397113</updated>
+    </task>
+    <task id="LOCAL-00117" summary="init">
+      <created>1565004075910</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1565004075910</updated>
+    </task>
+    <task id="LOCAL-00118" summary="init">
+      <created>1565004546236</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1565004546236</updated>
+    </task>
+    <task id="LOCAL-00119" summary="init">
+      <created>1565023404579</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1565023404579</updated>
+    </task>
+    <task id="LOCAL-00120" summary="init">
+      <created>1565083706195</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1565083706196</updated>
+    </task>
+    <task id="LOCAL-00121" summary="init">
+      <created>1565084551266</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1565084551266</updated>
+    </task>
+    <task id="LOCAL-00122" summary="init">
+      <created>1565192660062</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1565192660063</updated>
+    </task>
+    <task id="LOCAL-00123" summary="init">
+      <created>1565192677411</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1565192677411</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 19h 42m 13s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 19h 44m 57s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 19h 59m 03s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 20h 02m 51s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 20h 11m 54s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 20h 13m 38s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 20h 17m 37s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 20h 18m 48s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_register - 2019.08.01 at 20h 19m 37s.xml">
+      <configuration name="AdminServiceTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminServiceTest_login - 2019.08.01 at 20h 26m 58s.xml">
+      <configuration name="AdminServiceTest.login" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="173269000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.28070176" visible="true" weight="0.27479893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="JRebel" order="8" sideWeight="0.71929824" side_tool="true" weight="0.21715818" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55460995" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22411348" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.47520107" side_tool="true" weight="0.2964539" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.51206434" weight="0.40992907" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32907802" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.5247989" visible="true" weight="0.30638298" />
+      <window_info anchor="bottom" x="393" y="292" width="750" height="240" id="JRebel Console" order="17" sideWeight="0.4738606" side_tool="true" weight="0.44539008" />
+      <window_info anchor="bottom" id="Problems" order="18" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.26407507" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+      <window_info active="true" anchor="right" id="JRebel Setup Guide" order="10" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.28070176" visible="true" weight="0.2761394" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="JRebel" order="8" sideWeight="0.71929824" side_tool="true" weight="0.21715818" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2567376" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5078014" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4738606" side_tool="true" weight="0.40567377" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49932975" weight="0.32907802" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.52613944" visible="true" weight="0.35602838" />
+      <window_info anchor="bottom" x="393" y="292" width="750" height="240" id="JRebel Console" order="17" sideWeight="0.4738606" side_tool="true" weight="0.44539008" />
+      <window_info anchor="bottom" id="Problems" order="18" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.26407507" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+      <window_info active="true" anchor="right" id="JRebel Setup Guide" order="10" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init comit" />
+    <MESSAGE value="写配置文件" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/itoken-common-web/src/main/resources/templates/includes/foot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="30" selection-end-line="107" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-common-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-dependencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="276" selection-start-line="276" selection-end-line="287" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-service-upload-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/interceptor/WebPostsInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/resources/templates/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="77" column="7" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/interceptor/ConstantsInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-common-web/src/main/java/cn/yxvk/itoken/common/web/interceptor/BaseInterceptorMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2163">
+          <caret line="82" column="38" lean-forward="true" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-common-web/src/main/resources/static/assets/app/validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-common-service/src/main/java/cn/yxvk/itoken/common/mapper/TbPostsPostMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-common-domain/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-common-service/itoken-common-service.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-common-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/config/WebInterceptorConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/controller/PostsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1792">
+          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/resources/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/service/fallback/RedisServiceFallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/service/fallback/PostsServiceFallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/WebPostsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/service/PostsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-service-posts-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/service/RedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-web-posts/src/main/java/cn/yxvk/itoken/web/posts/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config/docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/static/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-service-upload-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-posts/src/main/java/cn/yxvk/itoken/service/posts/controller/PostsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/ServiceUploadApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/StorageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/FastDFSConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/StorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1419">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/static/css/modules/layer/default/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/static/css/modules/layer/default/loading-0.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/resoureces/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-eureka/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-redis-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-common-hosts-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-service-upload/src/main/java/cn/yxvk/itoken/service/upload/fastdfs/FastDFSStorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-zipkin-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-zipkin-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-zipkin-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-redis-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-eureka-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itoken-config-respo/respo/itoken-client-admin-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (itoken-config)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>itoken-dependencies</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

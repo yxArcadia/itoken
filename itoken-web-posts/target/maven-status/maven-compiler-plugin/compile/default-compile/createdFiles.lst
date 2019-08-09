@@ -1,0 +1,8 @@
+cn\yxvk\itoken\web\posts\service\fallback\PostsServiceFallback.class
+cn\yxvk\itoken\web\posts\service\fallback\RedisServiceFallback.class
+cn\yxvk\itoken\web\posts\interceptor\LoginInterceptor.class
+cn\yxvk\itoken\web\posts\config\WebInterceptorConfiguration.class
+cn\yxvk\itoken\web\posts\service\RedisService.class
+cn\yxvk\itoken\web\posts\service\PostsService.class
+cn\yxvk\itoken\web\posts\WebPostsApplication.class
+cn\yxvk\itoken\web\posts\controller\PostsController.class
